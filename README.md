@@ -11,6 +11,7 @@ My solutions to LeetCode problems.
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./206_Reverse_Linked_List.py) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](./485_Max_Consecutive_Ones.py) |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Python](./682_Baseball_Game.py) |
+| 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./707_Design_Linked_List.py) |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./1929_Concatenation_of_Array.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](./2235_Add_Two_Integers.py) |
