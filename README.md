@@ -17,8 +17,9 @@ My solutions to LeetCode problems.
 | 11 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [Python](./682_Baseball_Game.py) |
 | 12 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./704_Binary_Search.py) |
 | 13 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Python](./707_Design_Linked_List.py) |
-| 14 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py) |
-| 15 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Python](./1472_Design_Browser_History.py) |
-| 16 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./1700_Number_of_Students_Unable_to_Eat_Lunch.py) |
-| 17 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./1929_Concatenation_of_Array.py) |
-| 18 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](./2235_Add_Two_Integers.py) |
+| 14 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./875_Koko_Eating_Bananas.py) |
+| 15 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Python](./1299_Replace_Elements_with_Greatest_Element_on_Right_Side.py) |
+| 16 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [Python](./1472_Design_Browser_History.py) |
+| 17 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./1700_Number_of_Students_Unable_to_Eat_Lunch.py) |
+| 18 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./1929_Concatenation_of_Array.py) |
+| 19 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](./2235_Add_Two_Integers.py) |
