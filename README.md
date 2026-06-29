@@ -29,3 +29,7 @@ My solutions to LeetCode problems.
 | 23 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./75_Sort_Colors.py) |
 | 24 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./23_Merge_k_Sorted_Lists.py) |
 | 25 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./973_K_Closest_Points_to_Origin.py) |
+| 26 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Python](./701_Insert_into_a_Binary_Search_Tree.py) |
+| 27 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./94_Binary_Tree_Inorder_Traversal.py) |
+| 28 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](./110_Balanced_Binary_Tree.py) |
+| 29 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](./230_Kth_Smallest_Element_in_a_BST.py) |
