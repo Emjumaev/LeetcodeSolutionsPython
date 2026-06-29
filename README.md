@@ -24,3 +24,8 @@ My solutions to LeetCode problems.
 | 18 | 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Python](./1700_Number_of_Students_Unable_to_Eat_Lunch.py) |
 | 19 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Python](./1929_Concatenation_of_Array.py) |
 | 20 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [Python](./2235_Add_Two_Integers.py) |
+| 21 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Python](./912_Sort_an_Array.py) |
+| 22 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](./88_Merge_Sorted_Array.py) |
+| 23 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Python](./75_Sort_Colors.py) |
+| 24 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Python](./23_Merge_k_Sorted_Lists.py) |
+| 25 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./973_K_Closest_Points_to_Origin.py) |
