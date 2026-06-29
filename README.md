@@ -35,3 +35,4 @@ My solutions to LeetCode problems.
 | 29 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](./230_Kth_Smallest_Element_in_a_BST.py) |
 | 30 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./102_Binary_Tree_Level_Order_Traversal.py) |
 | 31 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](./199_Binary_Tree_Right_Side_View.py) |
+| 32 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) |
