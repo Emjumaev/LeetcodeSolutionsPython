@@ -40,3 +40,4 @@ My solutions to LeetCode problems.
 | 34 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./217_Contains_Duplicate.py) |
 | 35 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./1_Two_Sum.py) |
 | 36 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./242_Valid_Anagram.py) |
+| 37 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./146_LRU_Cache.py) |
