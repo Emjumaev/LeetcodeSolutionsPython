@@ -38,3 +38,4 @@ My solutions to LeetCode problems.
 | 32 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Python](./105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) |
 | 33 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./450_Delete_Node_in_a_BST.py) |
 | 34 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](./217_Contains_Duplicate.py) |
+| 35 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./1_Two_Sum.py) |
