@@ -41,3 +41,6 @@ My solutions to LeetCode problems.
 | 35 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./1_Two_Sum.py) |
 | 36 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./242_Valid_Anagram.py) |
 | 37 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./146_LRU_Cache.py) |
+| 38 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Python](./112_Path_Sum.py) |
+| 39 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](./78_Subsets.py) |
+| 40 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](./39_Combination_Sum.py) |
