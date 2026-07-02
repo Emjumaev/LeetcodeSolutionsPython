@@ -47,3 +47,4 @@ My solutions to LeetCode problems.
 | 41 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python](./733_Flood_Fill.py) |
 | 42 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./200_Number_of_Islands.py) |
 | 43 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./695_Max_Area_of_Island.py) |
+| 44 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./1091_Shortest_Path_in_Binary_Matrix.py) |
