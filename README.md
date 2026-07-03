@@ -48,3 +48,4 @@ My solutions to LeetCode problems.
 | 42 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./200_Number_of_Islands.py) |
 | 43 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./695_Max_Area_of_Island.py) |
 | 44 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./1091_Shortest_Path_in_Binary_Matrix.py) |
+| 45 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./994_Rotting_Oranges.py) |
