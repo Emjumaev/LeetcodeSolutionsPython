@@ -49,3 +49,5 @@ My solutions to LeetCode problems.
 | 43 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./695_Max_Area_of_Island.py) |
 | 44 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](./1091_Shortest_Path_in_Binary_Matrix.py) |
 | 45 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./994_Rotting_Oranges.py) |
+| 46 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./344_Reverse_String.py) |
+| 47 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./125_Valid_Palindrome.py) |
