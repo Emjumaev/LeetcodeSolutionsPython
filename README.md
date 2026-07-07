@@ -55,3 +55,5 @@ My solutions to LeetCode problems.
 | 49 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./1768_Merge_Strings_Alternately.py) |
 | 50 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./26_Remove_Duplicates_from_Sorted_Array.py) |
 | 51 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./167_Two_Sum_II_Input_Array_Is_Sorted.py) |
+| 52 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./169_Majority_Element.py) |
+| 53 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](./219_Contains_Duplicate_II.py) |
