@@ -53,3 +53,5 @@ My solutions to LeetCode problems.
 | 47 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./125_Valid_Palindrome.py) |
 | 48 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Python](./680_Valid_Palindrome_II.py) |
 | 49 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Python](./1768_Merge_Strings_Alternately.py) |
+| 50 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](./26_Remove_Duplicates_from_Sorted_Array.py) |
+| 51 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./167_Two_Sum_II_Input_Array_Is_Sorted.py) |
