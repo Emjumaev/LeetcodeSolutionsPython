@@ -59,3 +59,4 @@ My solutions to LeetCode problems.
 | 53 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](./219_Contains_Duplicate_II.py) |
 | 54 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./14_Longest_Common_Prefix.py) |
 | 55 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./49_Group_Anagrams.py) |
+| 56 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./35_Search_Insert_Position.py) |
