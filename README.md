@@ -62,3 +62,4 @@ My solutions to LeetCode problems.
 | 56 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./35_Search_Insert_Position.py) |
 | 57 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./69_Sqrtx.py) |
 | 58 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Python](./198_House_Robber.py) |
+| 59 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./62_Unique_Paths.py) |
