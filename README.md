@@ -57,3 +57,4 @@ My solutions to LeetCode problems.
 | 51 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./167_Two_Sum_II_Input_Array_Is_Sorted.py) |
 | 52 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](./169_Majority_Element.py) |
 | 53 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Python](./219_Contains_Duplicate_II.py) |
+| 54 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](./14_Longest_Common_Prefix.py) |
