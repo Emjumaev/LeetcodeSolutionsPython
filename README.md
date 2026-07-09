@@ -69,3 +69,4 @@ My solutions to LeetCode problems.
 | 63 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./703_Kth_Largest_Element_in_a_Stream.py) |
 | 64 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./1046_Last_Stone_Weight.py) |
 | 65 | 973 | [K Closest Points to Origin (Heap)](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./973_K_Closest_Points_to_Origin_Heap.py) |
+| 66 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./215_Kth_Largest_Element_in_an_Array.py) |
