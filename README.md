@@ -66,3 +66,4 @@ My solutions to LeetCode problems.
 | 60 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](./63_Unique_Paths_II.py) |
 | 61 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Python](./1143_Longest_Common_Subsequence.py) |
 | 62 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Python](./133_Clone_Graph.py) |
+| 63 | 703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](./703_Kth_Largest_Element_in_a_Stream.py) |
