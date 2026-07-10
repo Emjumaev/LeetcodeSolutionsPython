@@ -72,3 +72,4 @@ My solutions to LeetCode problems.
 | 66 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python](./215_Kth_Largest_Element_in_an_Array.py) |
 | 67 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./207_Course_Schedule.py) |
 | 68 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./11_Container_With_Most_Water.py) |
+| 69 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./150_Evaluate_Reverse_Polish_Notation.py) |
