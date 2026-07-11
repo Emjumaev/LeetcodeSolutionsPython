@@ -75,3 +75,4 @@ My solutions to LeetCode problems.
 | 69 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./150_Evaluate_Reverse_Polish_Notation.py) |
 | 70 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Python](./232_Implement_Queue_using_Stacks.py) |
 | 71 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./141_Linked_List_Cycle.py) |
+| 72 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./121_Best_Time_to_Buy_and_Sell_Stock.py) |
