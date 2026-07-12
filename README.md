@@ -77,3 +77,4 @@ My solutions to LeetCode problems.
 | 71 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./141_Linked_List_Cycle.py) |
 | 72 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./121_Best_Time_to_Buy_and_Sell_Stock.py) |
 | 73 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./136_Single_Number.py) |
+| 74 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./144_Binary_Tree_Preorder_Traversal.py) |
