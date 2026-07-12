@@ -78,3 +78,4 @@ My solutions to LeetCode problems.
 | 72 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./121_Best_Time_to_Buy_and_Sell_Stock.py) |
 | 73 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Python](./136_Single_Number.py) |
 | 74 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./144_Binary_Tree_Preorder_Traversal.py) |
+| 75 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./145_Binary_Tree_Postorder_Traversal.py) |
