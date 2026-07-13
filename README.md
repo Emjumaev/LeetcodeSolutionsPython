@@ -80,3 +80,4 @@ My solutions to LeetCode problems.
 | 74 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./144_Binary_Tree_Preorder_Traversal.py) |
 | 75 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./145_Binary_Tree_Postorder_Traversal.py) |
 | 76 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./226_Invert_Binary_Tree.py) |
+| 77 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./104_Maximum_Depth_of_Binary_Tree.py) |
