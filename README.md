@@ -82,3 +82,4 @@ My solutions to LeetCode problems.
 | 76 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Python](./226_Invert_Binary_Tree.py) |
 | 77 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](./104_Maximum_Depth_of_Binary_Tree.py) |
 | 78 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./543_Diameter_of_Binary_Tree.py) |
+| 79 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./100_Same_Tree.py) |
