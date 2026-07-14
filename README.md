@@ -84,3 +84,4 @@ My solutions to LeetCode problems.
 | 78 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./543_Diameter_of_Binary_Tree.py) |
 | 79 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./100_Same_Tree.py) |
 | 80 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./268_Missing_Number.py) |
+| 81 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./67_Add_Binary.py) |
