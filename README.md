@@ -85,3 +85,4 @@ My solutions to LeetCode problems.
 | 79 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./100_Same_Tree.py) |
 | 80 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./268_Missing_Number.py) |
 | 81 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./67_Add_Binary.py) |
+| 82 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./867_Transpose_Matrix.py) |
