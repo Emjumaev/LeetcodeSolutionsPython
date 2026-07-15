@@ -86,3 +86,4 @@ My solutions to LeetCode problems.
 | 80 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](./268_Missing_Number.py) |
 | 81 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./67_Add_Binary.py) |
 | 82 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./867_Transpose_Matrix.py) |
+| 83 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./202_Happy_Number.py) |
