@@ -90,3 +90,4 @@ My solutions to LeetCode problems.
 | 84 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./66_Plus_One.py) |
 | 85 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](./73_Set_Matrix_Zeroes.py) |
 | 86 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./168_Excel_Sheet_Column_Title.py) |
+| 87 | 2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Python](./2807_Insert_Greatest_Common_Divisors_in_Linked_List.py) |
