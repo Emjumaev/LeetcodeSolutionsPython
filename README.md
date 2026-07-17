@@ -89,3 +89,4 @@ My solutions to LeetCode problems.
 | 83 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Python](./202_Happy_Number.py) |
 | 84 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./66_Plus_One.py) |
 | 85 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](./73_Set_Matrix_Zeroes.py) |
+| 86 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](./168_Excel_Sheet_Column_Title.py) |
