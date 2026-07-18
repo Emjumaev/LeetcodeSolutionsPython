@@ -94,3 +94,4 @@ My solutions to LeetCode problems.
 | 88 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](./572_Subtree_of_Another_Tree.py) |
 | 89 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./53_Maximum_Subarray.py) |
 | 90 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](./303_Range_Sum_Query_Immutable.py) |
+| 91 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./724_Find_Pivot_Index.py) |
