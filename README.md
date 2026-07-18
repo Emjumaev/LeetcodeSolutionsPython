@@ -98,3 +98,4 @@ My solutions to LeetCode problems.
 | 92 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Python](./1991_Find_the_Middle_Index_in_Array.py) |
 | 93 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Python](./304_Range_Sum_Query_2D_Immutable.py) |
 | 94 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./238_Product_of_Array_Except_Self.py) |
+| 95 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./876_Middle_of_the_Linked_List.py) |
