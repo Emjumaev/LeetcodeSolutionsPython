@@ -95,3 +95,4 @@ My solutions to LeetCode problems.
 | 89 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./53_Maximum_Subarray.py) |
 | 90 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Python](./303_Range_Sum_Query_Immutable.py) |
 | 91 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./724_Find_Pivot_Index.py) |
+| 92 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Python](./1991_Find_the_Middle_Index_in_Array.py) |
