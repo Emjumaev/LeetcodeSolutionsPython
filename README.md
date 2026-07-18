@@ -99,3 +99,4 @@ My solutions to LeetCode problems.
 | 93 | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Python](./304_Range_Sum_Query_2D_Immutable.py) |
 | 94 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./238_Product_of_Array_Except_Self.py) |
 | 95 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./876_Middle_of_the_Linked_List.py) |
+| 96 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Python](./1343_Number_of_Sub_arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold.py) |
