@@ -103,3 +103,4 @@ My solutions to LeetCode problems.
 | 97 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](./15_3Sum.py) |
 | 98 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Python](./18_4Sum.py) |
 | 99 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Python](./90_Subsets_II.py) |
+| 100 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Python](./77_Combinations.py) |
