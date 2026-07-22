@@ -4,15 +4,19 @@ class Solution:
         self.dfs(nums, [], set())
         return self.res
 
-    def dfs(self, nums: List[int], path: List[int], pathSet: set[int]):
+    def dfs(self, nums, path, pathSet):
         if len(path) == len(nums):
-            self.res.append(path)
+            self.res.append(path.copy())
             return
 
         for num in nums:
-            if num not in pathSet:
-                newPath = path.copy()
-                newPath.append(num)
-                newPathSet = pathSet.copy()
-                newPathSet.add(num)
-                self.dfs(nums, newPath, newPathSet)
+            if num in pathSet:
+                continue
+
+            path.append(num)
+            pathSet.add(num)
+
+            self.dfs(nums, path, pathSet)
+
+            path.pop()
+            pathSet.remove(num)
