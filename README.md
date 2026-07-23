@@ -113,3 +113,4 @@ My solutions to LeetCode problems.
 | 107 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./128_Longest_Consecutive_Sequence.py) |
 | 108 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./684_Redundant_Connection.py) |
 | 109 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Python](./1971_Find_if_Path_Exists_in_Graph.py) |
+| 110 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python](./1791_Find_Center_of_Star_Graph.py) |
