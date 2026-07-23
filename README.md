@@ -111,3 +111,4 @@ My solutions to LeetCode problems.
 | 105 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Python](./211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) |
 | 106 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./79_Word_Search.py) |
 | 107 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./128_Longest_Consecutive_Sequence.py) |
+| 108 | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./684_Redundant_Connection.py) |
