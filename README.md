@@ -110,3 +110,4 @@ My solutions to LeetCode problems.
 | 104 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Python](./208.%20Implement%20Trie%20(Prefix%20Tree).py) |
 | 105 | 211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Python](./211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.py) |
 | 106 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Python](./79_Word_Search.py) |
+| 107 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./128_Longest_Consecutive_Sequence.py) |
