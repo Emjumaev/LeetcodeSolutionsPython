@@ -116,3 +116,4 @@ My solutions to LeetCode problems.
 | 110 | 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Python](./1791_Find_Center_of_Star_Graph.py) |
 | 111 | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Python](./252_Meeting_Rooms.py) |
 | 112 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](./57_Insert_Interval.py) |
+| 113 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./56_Merge_Intervals.py) |
