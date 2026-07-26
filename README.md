@@ -127,3 +127,4 @@ My solutions to LeetCode problems.
 | 121 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./261_Graph_Valid_Tree.py) |
 | 122 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Python](./210_Course_Schedule_II.py) |
 | 123 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Python](./323_Number_of_Connected_Components_in_an_Undirected_Graph.py) |
+| 124 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Python](./1319_Number_of_Operations_to_Make_Network_Connected.py) |
