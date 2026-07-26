@@ -124,3 +124,4 @@ My solutions to LeetCode problems.
 | 118 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](./647_Palindromic_Substrings.py) |
 | 119 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Python](./91_Decode_Ways.py) |
 | 120 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](./322_Coin_Change.py) |
+| 121 | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](./261_Graph_Valid_Tree.py) |
