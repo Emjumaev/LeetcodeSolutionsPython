@@ -1,35 +1,34 @@
 class Solution:
-    def __init__(self):
-        self.visited = set()
-        self.adj_list = {}
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
 
-    def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
-        # Initialize adjacency list
+        # building adjacency List
+        self.adjList = {}
+
         for i in range(numCourses):
-            self.adj_list[i] = []
+            self.adjList[i] = []
 
-        # Build graph
-        for course, prereq in prerequisites:
-            self.adj_list[course].append(prereq)
+        for prerequisite in prerequisites:
+            self.adjList[prerequisite[0]].append(prerequisite[1])
 
-        # Check each course
-        for course in range(numCourses):
-            if not self.dfs(course):
+        # checking for cycle detection in every node
+        for i in range(numCourses):
+            if self.checkForCycle(i, set()):
                 return False
 
         return True
 
-    def dfs(self, node: int) -> bool:
-        if node in self.visited:
-            return False
+    # cycle detection
+    def checkForCycle(self, node: int, path: set[int]) -> bool:
+        if node in path:
+            return True
 
-        self.visited.add(node)
+        path.add(node)
 
-        for neighbor in self.adj_list[node]:
-            if not self.dfs(neighbor):
-                return False
+        for adjecent in self.adjList[node]:
+            if self.checkForCycle(adjecent, path):
+                path.remove(node)
+                return True
 
-        self.visited.remove(node)
-        self.adj_list[node] = []  # Memoize as already processed
-
-        return True
+        path.remove(node)
+        self.adjList[node] = []
+        return False
