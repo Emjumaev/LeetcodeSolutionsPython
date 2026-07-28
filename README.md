@@ -129,3 +129,4 @@ My solutions to LeetCode problems.
 | 123 | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Python](./323_Number_of_Connected_Components_in_an_Undirected_Graph.py) |
 | 124 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Python](./1319_Number_of_Operations_to_Make_Network_Connected.py) |
 | 125 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](./547_Number_of_Provinces.py) |
+| 126 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./36_Valid_Sudoku.py) |
