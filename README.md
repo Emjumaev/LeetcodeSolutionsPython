@@ -132,3 +132,4 @@ My solutions to LeetCode problems.
 | 126 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./36_Valid_Sudoku.py) |
 | 127 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python](./130_Surrounded_Regions.py) |
 | 128 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./567_Permutation_in_String.py) |
+| 129 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](./40_Combination_Sum_II.py) |
