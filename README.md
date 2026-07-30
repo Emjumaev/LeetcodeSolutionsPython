@@ -131,3 +131,4 @@ My solutions to LeetCode problems.
 | 125 | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](./547_Number_of_Provinces.py) |
 | 126 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](./36_Valid_Sudoku.py) |
 | 127 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python](./130_Surrounded_Regions.py) |
+| 128 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./567_Permutation_in_String.py) |
