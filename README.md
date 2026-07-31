@@ -135,3 +135,4 @@ My solutions to LeetCode problems.
 | 129 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](./40_Combination_Sum_II.py) |
 | 130 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./746_Min_Cost_Climbing_Stairs.py) |
 | 131 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./981_Time_Based_Key_Value_Store.py) |
+| 132 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./162_Find_Peak_Element.py) |
