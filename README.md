@@ -137,3 +137,4 @@ My solutions to LeetCode problems.
 | 131 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Python](./981_Time_Based_Key_Value_Store.py) |
 | 132 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./162_Find_Peak_Element.py) |
 | 133 | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Python](./958_Check_Completeness_of_a_Binary_Tree.py) |
+| 134 | 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [Python](./1014_Best_Sightseeing_Pair.py) |
