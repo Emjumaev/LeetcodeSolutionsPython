@@ -142,3 +142,4 @@ My solutions to LeetCode problems.
 | 136 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](./22_Generate_Parentheses.py) |
 | 137 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [Python](./974_Subarray_Sums_Divisible_by_K.py) |
 | 138 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./287_Find_the_Duplicate_Number.py) |
+| 139 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Python](./1448_Count_Good_Nodes_in_Binary_Tree.py) |
