@@ -144,3 +144,4 @@ My solutions to LeetCode problems.
 | 138 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Python](./287_Find_the_Duplicate_Number.py) |
 | 139 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Python](./1448_Count_Good_Nodes_in_Binary_Tree.py) |
 | 140 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./2_Add_Two_Numbers.py) |
+| 141 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./7_Reverse_Integer.py) |
