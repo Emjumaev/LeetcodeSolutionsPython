@@ -147,3 +147,4 @@ My solutions to LeetCode problems.
 | 141 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./7_Reverse_Integer.py) |
 | 142 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./50_Pow(x,_n).py) |
 | 143 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./138_Copy_List_with_Random_Pointer.py) |
+| 144 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](./416_Partition_Equal_Subset_Sum.py) |
