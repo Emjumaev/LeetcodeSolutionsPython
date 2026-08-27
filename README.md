@@ -152,3 +152,4 @@ My solutions to LeetCode problems.
 | 146 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Python](./solutions/239_Sliding_Window_Maximum.py) |
 | 147 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./solutions/739_Daily_Temperatures.py) |
 | 148 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./solutions/58_Length_of_Last_Word.py) |
+| 149 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./solutions/101_Symmetric_Tree.py) |
