@@ -153,3 +153,4 @@ My solutions to LeetCode problems.
 | 147 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./solutions/739_Daily_Temperatures.py) |
 | 148 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./solutions/58_Length_of_Last_Word.py) |
 | 149 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./solutions/101_Symmetric_Tree.py) |
+| 150 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](./solutions/111_Minimum_Depth_of_Binary_Tree.py) |
