@@ -155,3 +155,5 @@ My solutions to LeetCode problems.
 | 149 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](./solutions/101_Symmetric_Tree.py) |
 | 150 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](./solutions/111_Minimum_Depth_of_Binary_Tree.py) |
 | 151 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./solutions/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) |
+| 152 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./solutions/118_Pascals_Triangle.py) |
+| 153 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./solutions/119_Pascals_Triangle_II.py) |
