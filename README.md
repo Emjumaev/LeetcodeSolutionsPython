@@ -157,3 +157,8 @@ My solutions to LeetCode problems.
 | 151 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Python](./solutions/108_Convert_Sorted_Array_to_Binary_Search_Tree.py) |
 | 152 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./solutions/118_Pascals_Triangle.py) |
 | 153 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](./solutions/119_Pascals_Triangle_II.py) |
+| 154 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Python](./solutions/257_Binary_Tree_Paths.py) |
+| 155 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Python](./solutions/345_Reverse_Vowels_of_a_String.py) |
+| 156 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Python](./solutions/350_Intersection_of_Two_Arrays_II.py) |
+| 157 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](./solutions/404_Sum_of_Left_Leaves.py) |
+| 158 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./solutions/392_Is_Subsequence.py) |
