@@ -163,3 +163,4 @@ My solutions to LeetCode problems.
 | 157 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Python](./solutions/404_Sum_of_Left_Leaves.py) |
 | 158 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./solutions/392_Is_Subsequence.py) |
 | 159 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](./solutions/409_Longest_Palindrome.py) |
+| 160 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./solutions/461_Hamming_Distance.py) |
