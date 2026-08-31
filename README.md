@@ -165,3 +165,4 @@ My solutions to LeetCode problems.
 | 159 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](./solutions/409_Longest_Palindrome.py) |
 | 160 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./solutions/461_Hamming_Distance.py) |
 | 161 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Python](./solutions/434_Number_of_Segments_in_a_String.py) |
+| 162 | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Python](./solutions/501_Find_Mode_in_Binary_Search_Tree.py) |
