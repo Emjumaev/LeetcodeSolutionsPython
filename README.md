@@ -174,3 +174,4 @@ My solutions to LeetCode problems.
 | 168 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Python](./solutions/1041_Robot_Bounded_In_Circle.py) |
 | 169 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./solutions/107_Binary_Tree_Level_Order_Traversal_II.py) |
 | 170 | 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Python](./solutions/1003_Check_If_Word_Is_Valid_After_Substitutions.py) |
+| 171 | 3722 | [Lexicographically Smallest String After Reverse](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | [Python](./solutions/3722_Lexicographically_Smallest_String_After_Reverse.py) |
