@@ -177,3 +177,4 @@ My solutions to LeetCode problems.
 | 171 | 3722 | [Lexicographically Smallest String After Reverse](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | [Python](./solutions/3722_Lexicographically_Smallest_String_After_Reverse.py) |
 | 172 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Python](./solutions/2574_Left_and_Right_Sum_Differences.py) |
 | 173 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Python](./solutions/3090_Maximum_Length_Substring_With_Two_Occurrences.py) |
+| 174 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](./solutions/96_Unique_Binary_Search_Trees.py) |
