@@ -178,3 +178,4 @@ My solutions to LeetCode problems.
 | 172 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Python](./solutions/2574_Left_and_Right_Sum_Differences.py) |
 | 173 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Python](./solutions/3090_Maximum_Length_Substring_With_Two_Occurrences.py) |
 | 174 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](./solutions/96_Unique_Binary_Search_Trees.py) |
+| 175 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./solutions/64_Minimum_Path_Sum.py) |
