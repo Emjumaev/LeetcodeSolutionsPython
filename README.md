@@ -179,3 +179,5 @@ My solutions to LeetCode problems.
 | 173 | 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Python](./solutions/3090_Maximum_Length_Substring_With_Two_Occurrences.py) |
 | 174 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](./solutions/96_Unique_Binary_Search_Trees.py) |
 | 175 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./solutions/64_Minimum_Path_Sum.py) |
+| 176 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Python](./solutions/3898_Find_the_Degree_of_Each_Vertex.py) |
+| 177 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Python](./solutions/3498_Reverse_Degree_of_a_String.py) |
