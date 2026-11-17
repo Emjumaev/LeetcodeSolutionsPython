@@ -181,3 +181,4 @@ My solutions to LeetCode problems.
 | 175 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](./solutions/64_Minimum_Path_Sum.py) |
 | 176 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Python](./solutions/3898_Find_the_Degree_of_Each_Vertex.py) |
 | 177 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Python](./solutions/3498_Reverse_Degree_of_a_String.py) |
+| 178 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Python](./solutions/3701_Compute_Alternating_Sum.py) |
