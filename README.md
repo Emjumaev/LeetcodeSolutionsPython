@@ -184,3 +184,4 @@ My solutions to LeetCode problems.
 | 178 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Python](./solutions/3701_Compute_Alternating_Sum.py) |
 | 179 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](./solutions/1588_Sum_of_All_Odd_Length_Subarrays.py) |
 | 180 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Python](./solutions/1382_Balance_a_Binary_Search_Tree.py) |
+| 181 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Python](./solutions/86_Partition_List.py) |
