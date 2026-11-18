@@ -183,3 +183,4 @@ My solutions to LeetCode problems.
 | 177 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Python](./solutions/3498_Reverse_Degree_of_a_String.py) |
 | 178 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [Python](./solutions/3701_Compute_Alternating_Sum.py) |
 | 179 | 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Python](./solutions/1588_Sum_of_All_Odd_Length_Subarrays.py) |
+| 180 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Python](./solutions/1382_Balance_a_Binary_Search_Tree.py) |
