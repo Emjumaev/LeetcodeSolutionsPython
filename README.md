@@ -188,3 +188,4 @@ My solutions to LeetCode problems.
 | 182 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Python](./solutions/530_Minimum_Absolute_Difference_in_BST.py) |
 | 183 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python](./solutions/405_Convert_a_Number_to_Hexadecimal.py) |
 | 184 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](./solutions/228_Summary_Ranges.py) |
+| 185 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](./solutions/292_Nim_Game.py) |
