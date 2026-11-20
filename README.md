@@ -189,3 +189,4 @@ My solutions to LeetCode problems.
 | 183 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Python](./solutions/405_Convert_a_Number_to_Hexadecimal.py) |
 | 184 | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Python](./solutions/228_Summary_Ranges.py) |
 | 185 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](./solutions/292_Nim_Game.py) |
+| 186 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [Python](./solutions/2325_Decode_the_Message.py) |
