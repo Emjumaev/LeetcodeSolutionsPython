@@ -191,3 +191,4 @@ My solutions to LeetCode problems.
 | 185 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](./solutions/292_Nim_Game.py) |
 | 186 | 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [Python](./solutions/2325_Decode_the_Message.py) |
 | 187 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Python](./solutions/771_Jewels_and_Stones.py) |
+| 188 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) |
