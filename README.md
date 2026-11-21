@@ -194,3 +194,4 @@ My solutions to LeetCode problems.
 | 188 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Python](./solutions/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py) |
 | 189 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./solutions/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) |
 | 190 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./solutions/1684_Count_the_Number_of_Consistent_Strings.py) |
+| 191 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Python](./solutions/1678_Goal_Parser_Interpretation.py) |
