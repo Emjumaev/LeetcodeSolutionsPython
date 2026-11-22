@@ -198,3 +198,4 @@ My solutions to LeetCode problems.
 | 192 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](./solutions/3541_Find_Most_Frequent_Vowel_and_Consonant.py) |
 | 193 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Python](./solutions/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.py) |
 | 194 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](./solutions/709_To_Lower_Case.py) |
+| 195 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Python](./solutions/3550_Smallest_Index_With_Digit_Sum_Equal_to_Index.py) |
