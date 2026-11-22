@@ -195,3 +195,4 @@ My solutions to LeetCode problems.
 | 189 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Python](./solutions/1038_Binary_Search_Tree_to_Greater_Sum_Tree.py) |
 | 190 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./solutions/1684_Count_the_Number_of_Consistent_Strings.py) |
 | 191 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Python](./solutions/1678_Goal_Parser_Interpretation.py) |
+| 192 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](./solutions/3541_Find_Most_Frequent_Vowel_and_Consonant.py) |
