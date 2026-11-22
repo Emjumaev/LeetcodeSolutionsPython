@@ -196,3 +196,4 @@ My solutions to LeetCode problems.
 | 190 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Python](./solutions/1684_Count_the_Number_of_Consistent_Strings.py) |
 | 191 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [Python](./solutions/1678_Goal_Parser_Interpretation.py) |
 | 192 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Python](./solutions/3541_Find_Most_Frequent_Vowel_and_Consonant.py) |
+| 193 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Python](./solutions/1315_Sum_of_Nodes_with_Even_Valued_Grandparent.py) |
